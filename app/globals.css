@@ -1,26 +1,81 @@
 @import "tailwindcss";
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ── Design tokens (raw CSS vars) ──────────────────────────── */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --primary:    #1A3A2A;
+  --accent:     #D4A843;
+  --bg:         #FDFAF5;
+  --bg-light:   #F5EDD8;
+  --footer-bg:  #111E17;
+  --text:       #1A1A1A;
+  --text-muted: #7A7065;
 }
 
+/* ── Tailwind v4 theme registration ────────────────────────── */
+/* inline = utilities reference the var() rather than inlining  */
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-primary:      var(--primary);
+  --color-accent:       var(--accent);
+  --color-cream:        var(--bg);
+  --color-cream-light:  var(--bg-light);
+  --color-footer:       var(--footer-bg);
+  --color-muted:        var(--text-muted);
+  /* font-heading enables the `font-heading` utility class */
+  --font-heading:       var(--font-playfair), 'Playfair Display', serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+/* ── Base ───────────────────────────────────────────────────── */
+html { scroll-behavior: smooth; }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  font-family: var(--font-dm-sans), 'DM Sans', sans-serif;
+  font-weight: 300;
+  line-height: 1.85;
+  color: var(--text);
+}
+
+a   { text-decoration: none; color: inherit; }
+img { max-width: 100%; display: block; }
+
+/* ── Reusable global component classes ─────────────────────── */
+@layer components {
+  /* 40 × 3 px gold rule, sits directly below every section heading */
+  .gold-divider {
+    @apply w-10 h-[3px] bg-accent rounded-sm mb-10;
+  }
+
+  /* Small all-caps label above a section heading */
+  .section-label {
+    @apply block text-[11px] font-medium uppercase tracking-[1.5px] text-muted mb-2;
+  }
+
+  /* Shared heading type style — add text-* and text-size utilities alongside */
+  .section-title {
+    @apply font-heading font-bold leading-tight mb-3;
+  }
+
+  /* Gold-filled CTA button */
+  .btn-primary {
+    @apply inline-block bg-accent text-primary font-semibold text-sm
+           px-7 py-3 rounded transition-colors
+           hover:bg-[#c2972e] focus-visible:outline-none focus-visible:ring-2
+           focus-visible:ring-accent;
+  }
+
+  /* Outlined button — default dark-green border, inverts on hover */
+  .btn-outline {
+    @apply inline-block border border-primary text-primary font-semibold text-sm
+           px-7 py-3 rounded transition-colors
+           hover:bg-primary hover:text-white focus-visible:outline-none
+           focus-visible:ring-2 focus-visible:ring-primary;
+  }
 }

@@ -1,0 +1,127 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Okosisi" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - list [ref=e5]:
+        - listitem [ref=e6]:
+          - link "Home" [ref=e7] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e8]:
+          - link "About" [ref=e9] [cursor=pointer]:
+            - /url: /about
+        - listitem [ref=e10]:
+          - link "Directory" [ref=e11] [cursor=pointer]:
+            - /url: /directory
+        - listitem [ref=e12]:
+          - link "Events" [ref=e13] [cursor=pointer]:
+            - /url: /events
+        - listitem [ref=e14]:
+          - link "Gallery" [ref=e15] [cursor=pointer]:
+            - /url: /gallery
+        - listitem [ref=e16]:
+          - link "Welfare" [ref=e17] [cursor=pointer]:
+            - /url: /welfare
+        - listitem [ref=e18]:
+          - link "Contact" [ref=e19] [cursor=pointer]:
+            - /url: /contact
+        - listitem [ref=e20]:
+          - link "Register" [ref=e21] [cursor=pointer]:
+            - /url: /register
+  - main [ref=e22]:
+    - generic [ref=e24]:
+      - navigation [ref=e25]:
+        - link "Home" [ref=e26] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e27]: /
+        - generic [ref=e28]: About
+      - generic [ref=e29]: Our Family
+      - heading "About Us" [level=1] [ref=e30]
+      - paragraph [ref=e32]: Learn the story, values, and vision of the Umu Egbuke Bloodline — a family rooted in love, strength, and a shared identity carried across every generation.
+    - generic [ref=e34]:
+      - generic [ref=e35]: Who We Are
+      - heading "The Umu Egbuke Legacy" [level=2] [ref=e36]
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - paragraph [ref=e40]: The Umu Egbuke Bloodline is more than a family — it is a living institution, a covenant of shared blood and shared purpose. For generations, our people have carried a name that stands for integrity, resilience, and community.
+          - paragraph [ref=e41]: "Rooted in the rich cultural traditions of our homeland, the family has grown across regions, professions, and generations, yet remains bound by an unbreakable sense of identity. The name Okosisi — our family portal — embodies this spirit: a great tree whose roots run deep and whose branches reach wide."
+          - paragraph [ref=e42]: This platform exists to connect, celebrate, and preserve our story so that no branch of the family ever feels lost or forgotten.
+        - blockquote [ref=e43]:
+          - paragraph [ref=e44]: “A family without knowledge of its past is like a tree without roots — it stands, but it does not truly grow.”
+          - generic [ref=e45]: — Umu Egbuke Elders Council
+    - generic [ref=e47]:
+      - generic [ref=e48]: Looking Forward
+      - heading "Our Vision" [level=2] [ref=e49]
+      - paragraph [ref=e52]: “To be a united, prosperous, and celebrated family — a bloodline that honours its past, strengthens its present, and secures a powerful legacy for generations yet to come.”
+    - generic [ref=e54]:
+      - generic [ref=e55]: Our Purpose
+      - heading "Our Mission" [level=2] [ref=e56]
+      - generic [ref=e58]:
+        - generic [ref=e59]:
+          - paragraph [ref=e60]: The Umu Egbuke Bloodline is committed to nurturing every member of our family — from the eldest elder to the newest born. Our mission shapes every decision we make and every initiative we launch.
+          - paragraph [ref=e61]: Whether you live in the village or across the world, this family is your home. We exist to make sure you always have a place to belong, a voice to be heard, and a community to lean on.
+        - list [ref=e62]:
+          - listitem [ref=e63]:
+            - generic [ref=e65]: Foster unity and mutual respect among all family members regardless of location.
+          - listitem [ref=e66]:
+            - generic [ref=e68]: Preserve our cultural identity, traditions, and the stories of our ancestors.
+          - listitem [ref=e69]:
+            - generic [ref=e71]: Support one another through welfare initiatives and community action.
+          - listitem [ref=e72]:
+            - generic [ref=e74]: Celebrate milestones and create lasting memories across generations.
+          - listitem [ref=e75]:
+            - generic [ref=e77]: Build a prosperous legacy that future descendants will be proud of.
+    - generic [ref=e79]:
+      - generic [ref=e80]: What Guides Us
+      - heading "Core Values" [level=2] [ref=e81]
+      - generic [ref=e83]:
+        - generic [ref=e84]:
+          - heading "Unity" [level=3] [ref=e85]
+          - paragraph [ref=e86]: Together we are stronger. Every member belongs to something greater than themselves.
+        - generic [ref=e87]:
+          - heading "Respect" [level=3] [ref=e88]
+          - paragraph [ref=e89]: We honour the dignity of every family member — in word, deed, and decision.
+        - generic [ref=e90]:
+          - heading "Integrity" [level=3] [ref=e91]
+          - paragraph [ref=e92]: Our name means something. We uphold truth and act with honour in all we do.
+        - generic [ref=e93]:
+          - heading "Love" [level=3] [ref=e94]
+          - paragraph [ref=e95]: An unconditional bond ties our generations together across every distance.
+        - generic [ref=e96]:
+          - heading "Support" [level=3] [ref=e97]
+          - paragraph [ref=e98]: In times of need, the family rises — we lift one another without condition.
+        - generic [ref=e99]:
+          - heading "Heritage" [level=3] [ref=e100]
+          - paragraph [ref=e101]: Our roots run deep. We preserve our story so it is never lost or forgotten.
+    - generic [ref=e103]:
+      - generic [ref=e104]: Join the Bloodline
+      - heading "Your story starts here." [level=2] [ref=e105]
+      - paragraph [ref=e107]: Every registered member strengthens the family record. Make sure your branch is counted — and connected to the rest of the bloodline.
+      - generic [ref=e108]:
+        - link "Register as a Member" [ref=e109] [cursor=pointer]:
+          - /url: /register
+        - link "Back to Home" [ref=e110] [cursor=pointer]:
+          - /url: /
+  - contentinfo [ref=e111]:
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - generic [ref=e114]: Okosisi
+        - paragraph [ref=e115]: Umu Egbuke Bloodline
+      - navigation [ref=e116]:
+        - link "About" [ref=e117] [cursor=pointer]:
+          - /url: /about
+        - link "Directory" [ref=e118] [cursor=pointer]:
+          - /url: /directory
+        - link "Events" [ref=e119] [cursor=pointer]:
+          - /url: /events
+        - link "Gallery" [ref=e120] [cursor=pointer]:
+          - /url: /gallery
+        - link "Welfare" [ref=e121] [cursor=pointer]:
+          - /url: /welfare
+        - link "Tributes" [ref=e122] [cursor=pointer]:
+          - /url: /tribute
+        - link "Contact" [ref=e123] [cursor=pointer]:
+          - /url: /contact
+    - paragraph [ref=e125]: © 2026 Okosisi — Umu Egbuke Bloodline. All rights reserved.
+  - button "Open Next.js Dev Tools" [ref=e131] [cursor=pointer]:
+    - img [ref=e132]

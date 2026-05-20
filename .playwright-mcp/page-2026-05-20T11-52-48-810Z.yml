@@ -1,0 +1,84 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Okosisi" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - list [ref=e5]:
+        - listitem [ref=e6]:
+          - link "Home" [ref=e7] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e8]:
+          - link "About" [ref=e9] [cursor=pointer]:
+            - /url: /about
+        - listitem [ref=e10]:
+          - link "Directory" [ref=e11] [cursor=pointer]:
+            - /url: /directory
+        - listitem [ref=e12]:
+          - link "Events" [ref=e13] [cursor=pointer]:
+            - /url: /events
+        - listitem [ref=e14]:
+          - link "Gallery" [ref=e15] [cursor=pointer]:
+            - /url: /gallery
+        - listitem [ref=e16]:
+          - link "Welfare" [ref=e17] [cursor=pointer]:
+            - /url: /welfare
+        - listitem [ref=e18]:
+          - link "Contact" [ref=e19] [cursor=pointer]:
+            - /url: /contact
+        - listitem [ref=e20]:
+          - link "Register" [ref=e21] [cursor=pointer]:
+            - /url: /register
+  - main [ref=e22]:
+    - generic [ref=e24]:
+      - navigation [ref=e25]:
+        - link "Home" [ref=e26] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e27]: /
+        - generic [ref=e28]: Register
+      - generic [ref=e29]: Join the Family
+      - heading "Family Registration" [level=1] [ref=e30]
+      - paragraph [ref=e32]: Register your household and become part of the official Umu Egbuke Bloodline record. It only takes a moment.
+    - generic [ref=e34]:
+      - generic [ref=e35]: Your Details
+      - heading "Register Your Branch" [level=2] [ref=e36]
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - generic [ref=e40]: Full Name *
+          - textbox "Full Name *" [ref=e41]:
+            - /placeholder: e.g. Chukwuemeka Okonkwo
+        - generic [ref=e42]:
+          - generic [ref=e43]: Email Address *
+          - textbox "Email Address *" [ref=e44]:
+            - /placeholder: you@example.com
+        - generic [ref=e45]:
+          - generic [ref=e46]: Phone Number
+          - textbox "Phone Number" [ref=e47]:
+            - /placeholder: +234 800 000 0000
+        - generic [ref=e48]:
+          - generic [ref=e49]: Family Branch
+          - textbox "Family Branch" [ref=e50]:
+            - /placeholder: e.g. Umuahia, Enugu, Diaspora
+        - button "Register Now" [ref=e51]
+  - contentinfo [ref=e52]:
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - generic [ref=e55]: Okosisi
+        - paragraph [ref=e56]: Umu Egbuke Bloodline
+      - navigation [ref=e57]:
+        - link "About" [ref=e58] [cursor=pointer]:
+          - /url: /about
+        - link "Directory" [ref=e59] [cursor=pointer]:
+          - /url: /directory
+        - link "Events" [ref=e60] [cursor=pointer]:
+          - /url: /events
+        - link "Gallery" [ref=e61] [cursor=pointer]:
+          - /url: /gallery
+        - link "Welfare" [ref=e62] [cursor=pointer]:
+          - /url: /welfare
+        - link "Tributes" [ref=e63] [cursor=pointer]:
+          - /url: /tribute
+        - link "Contact" [ref=e64] [cursor=pointer]:
+          - /url: /contact
+    - paragraph [ref=e66]: © 2026 Okosisi — Umu Egbuke Bloodline. All rights reserved.
+  - button "Open Next.js Dev Tools" [ref=e72] [cursor=pointer]:
+    - img [ref=e73]

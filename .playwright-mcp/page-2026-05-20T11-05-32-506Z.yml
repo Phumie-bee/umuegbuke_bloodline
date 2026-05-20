@@ -1,0 +1,174 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Okosisi" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - list [ref=e5]:
+        - listitem [ref=e6]:
+          - link "Home" [ref=e7] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e8]:
+          - link "About" [ref=e9] [cursor=pointer]:
+            - /url: /about
+        - listitem [ref=e10]:
+          - link "Directory" [ref=e11] [cursor=pointer]:
+            - /url: /directory
+        - listitem [ref=e12]:
+          - link "Events" [ref=e13] [cursor=pointer]:
+            - /url: /events
+        - listitem [ref=e14]:
+          - link "Gallery" [ref=e15] [cursor=pointer]:
+            - /url: /gallery
+        - listitem [ref=e16]:
+          - link "Welfare" [ref=e17] [cursor=pointer]:
+            - /url: /welfare
+        - listitem [ref=e18]:
+          - link "Contact" [ref=e19] [cursor=pointer]:
+            - /url: /contact
+        - listitem [ref=e20]:
+          - link "Register" [ref=e21] [cursor=pointer]:
+            - /url: /register
+  - main [ref=e22]:
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - generic [ref=e25]: Est. Since The Beginning
+        - heading "One Family, One Heritage" [level=1] [ref=e26]:
+          - text: One Family,
+          - text: One Heritage
+        - paragraph [ref=e27]: A living bond across generations. The Umu Egbuke Bloodline is a community rooted in love, strength, and a shared identity that transcends borders.
+        - generic [ref=e28]:
+          - link "Join the Family" [ref=e29] [cursor=pointer]:
+            - /url: /register
+          - link "Explore the Site" [ref=e30] [cursor=pointer]:
+            - /url: /about
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e33]: 500+
+          - generic [ref=e34]: Registered Members
+        - generic [ref=e35]:
+          - generic [ref=e36]: "12"
+          - generic [ref=e37]: Family Branches
+        - generic [ref=e38]:
+          - generic [ref=e39]: 20+
+          - generic [ref=e40]: Years of Unity
+    - generic [ref=e42]:
+      - generic [ref=e43]: What We Offer
+      - heading "Everything the Family Needs" [level=2] [ref=e44]
+      - generic [ref=e46]:
+        - link "Family Registration Officially register your household and become part of the living record of the Umu Egbuke Bloodline." [ref=e47] [cursor=pointer]:
+          - /url: /register
+          - img [ref=e49]
+          - heading "Family Registration" [level=3] [ref=e54]
+          - paragraph [ref=e55]: Officially register your household and become part of the living record of the Umu Egbuke Bloodline.
+        - link "Family Directory Browse registered family members across all branches and geographical locations." [ref=e56] [cursor=pointer]:
+          - /url: /directory
+          - img [ref=e58]
+          - heading "Family Directory" [level=3] [ref=e63]
+          - paragraph [ref=e64]: Browse registered family members across all branches and geographical locations.
+        - link "News & Announcements Stay informed with the latest updates, decisions, and notices from family leadership." [ref=e65] [cursor=pointer]:
+          - /url: /news
+          - img [ref=e67]
+          - heading "News & Announcements" [level=3] [ref=e70]
+          - paragraph [ref=e71]: Stay informed with the latest updates, decisions, and notices from family leadership.
+        - link "Photo Gallery Relive precious moments from reunions, ceremonies, and cherished family milestones." [ref=e72] [cursor=pointer]:
+          - /url: /gallery
+          - img [ref=e74]
+          - heading "Photo Gallery" [level=3] [ref=e78]
+          - paragraph [ref=e79]: Relive precious moments from reunions, ceremonies, and cherished family milestones.
+        - link "Welfare & Support Access family welfare resources and contribute to supporting members in times of need." [ref=e80] [cursor=pointer]:
+          - /url: /welfare
+          - img [ref=e82]
+          - heading "Welfare & Support" [level=3] [ref=e84]
+          - paragraph [ref=e85]: Access family welfare resources and contribute to supporting members in times of need.
+        - link "Tributes & Memorials Honor and remember loved ones whose legacies continue to shape who we are." [ref=e86] [cursor=pointer]:
+          - /url: /tribute
+          - img [ref=e88]
+          - heading "Tributes & Memorials" [level=3] [ref=e90]
+          - paragraph [ref=e91]: Honor and remember loved ones whose legacies continue to shape who we are.
+    - generic [ref=e93]:
+      - generic [ref=e94]: Who We Are
+      - heading "Vision & Mission" [level=2] [ref=e95]
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - generic [ref=e99]: Our Vision
+          - paragraph [ref=e100]: “To be a united, prosperous, and celebrated family — a bloodline that honors its past, strengthens its present, and secures a powerful legacy for generations yet to come.”
+        - generic [ref=e101]:
+          - generic [ref=e102]: Our Mission
+          - list [ref=e103]:
+            - listitem [ref=e104]: Foster unity and mutual respect among all family members regardless of location.
+            - listitem [ref=e105]: Preserve our cultural identity, traditions, and the stories of our ancestors.
+            - listitem [ref=e106]: Support one another through welfare initiatives and community action.
+            - listitem [ref=e107]: Celebrate milestones and create lasting memories across generations.
+            - listitem [ref=e108]: Build a prosperous legacy that future descendants will be proud of.
+    - generic [ref=e110]:
+      - generic [ref=e111]: What Guides Us
+      - heading "Our Core Values" [level=2] [ref=e112]
+      - generic [ref=e114]:
+        - generic [ref=e115]: Unity
+        - generic [ref=e116]: Respect
+        - generic [ref=e117]: Integrity
+        - generic [ref=e118]: Love
+        - generic [ref=e119]: Support
+        - generic [ref=e120]: Heritage
+    - generic [ref=e122]:
+      - generic [ref=e123]: Mark Your Calendar
+      - heading "Upcoming Events" [level=2] [ref=e124]
+      - generic [ref=e126]:
+        - generic [ref=e127]:
+          - generic [ref=e128]:
+            - generic [ref=e129]: "15"
+            - generic [ref=e130]: Jun 2026
+          - generic [ref=e131]:
+            - heading "Annual Family Grand Reunion" [level=3] [ref=e132]
+            - paragraph [ref=e133]:
+              - img [ref=e134]
+              - text: Enugu, Nigeria
+        - generic [ref=e137]:
+          - generic [ref=e138]:
+            - generic [ref=e139]: "03"
+            - generic [ref=e140]: Aug 2026
+          - generic [ref=e141]:
+            - heading "Welfare & Planning Committee Meeting" [level=3] [ref=e142]
+            - paragraph [ref=e143]:
+              - img [ref=e144]
+              - text: Lagos, Nigeria
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - generic [ref=e149]: "18"
+            - generic [ref=e150]: Oct 2026
+          - generic [ref=e151]:
+            - heading "Cultural Night & Family Awards" [level=3] [ref=e152]
+            - paragraph [ref=e153]:
+              - img [ref=e154]
+              - text: Owerri, Nigeria
+      - link "View All Events →" [ref=e158] [cursor=pointer]:
+        - /url: /events
+    - generic [ref=e160]:
+      - generic [ref=e161]: The Family is Waiting
+      - heading "You belong here." [level=2] [ref=e162]
+      - paragraph [ref=e163]: Every branch. Every generation. Every story. They all start with one step — becoming part of the official Umu Egbuke record.
+      - link "Register as a Member" [ref=e164] [cursor=pointer]:
+        - /url: /register
+  - contentinfo [ref=e165]:
+    - generic [ref=e166]:
+      - generic [ref=e167]:
+        - generic [ref=e168]: Okosisi
+        - paragraph [ref=e169]: Umu Egbuke Bloodline
+      - navigation [ref=e170]:
+        - link "About" [ref=e171] [cursor=pointer]:
+          - /url: /about
+        - link "Directory" [ref=e172] [cursor=pointer]:
+          - /url: /directory
+        - link "Events" [ref=e173] [cursor=pointer]:
+          - /url: /events
+        - link "Gallery" [ref=e174] [cursor=pointer]:
+          - /url: /gallery
+        - link "Welfare" [ref=e175] [cursor=pointer]:
+          - /url: /welfare
+        - link "Tributes" [ref=e176] [cursor=pointer]:
+          - /url: /tribute
+        - link "Contact" [ref=e177] [cursor=pointer]:
+          - /url: /contact
+    - paragraph [ref=e179]: © 2026 Okosisi — Umu Egbuke Bloodline. All rights reserved.
+  - button "Open Next.js Dev Tools" [ref=e185] [cursor=pointer]:
+    - img [ref=e186]
