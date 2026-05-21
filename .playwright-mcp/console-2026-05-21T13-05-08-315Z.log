@@ -1,0 +1,2484 @@
+[      58ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[      74ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  149106ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  149142ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/?_rsc=q3mOO9BClNZHexY7:0
+[  149162ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/?_rsc=q3mOO9BClNZHexY7:0
+[  149184ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[  149218ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_0bruynb._.js:15305
+[  149229ms] Error: ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx
+
+
+    at <unknown> (Error: ./components/Hero.tsx:240:7)
+    at Object.getCompilationErrors (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\dev\hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\lib\dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\dev\next-dev-server.js:720:42)
+    at DevServer.findPageComponents (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\dev\next-dev-server.js:690:43)
+    at async DevServer.renderErrorToResponseImpl (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\base-server.js:1753:26)
+[  149230ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[  149233ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149340ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149401ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149442ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149510ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149559ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149617ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149684ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149741ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149783ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149823ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149877ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149928ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  149975ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150027ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150073ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150123ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150177ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150225ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150281ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150339ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150402ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150455ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150520ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150571ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150623ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150682ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150734ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150783ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150840ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150894ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150941ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  150998ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151052ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151100ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151150ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151199ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151239ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151295ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151349ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151394ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151450ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151496ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151548ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151603ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151656ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151715ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151760ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151803ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151859ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  151937ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152005ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152045ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152103ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152164ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152212ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152270ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152322ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152385ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152454ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152534ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152583ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152638ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152687ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152755ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152805ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152867ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152919ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  152961ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153016ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153073ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153137ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153208ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153272ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153339ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153387ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153443ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153498ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153544ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153624ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153663ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153728ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153777ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153832ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153873ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153928ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  153999ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154062ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154114ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154165ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154219ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154272ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154360ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154423ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154479ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154538ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154586ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154633ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154693ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154734ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154797ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154838ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154895ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  154957ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155005ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155061ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155124ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155185ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155249ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155325ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155388ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155443ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155503ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155574ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155629ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155683ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155733ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155780ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155843ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155906ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  155969ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156030ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156089ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156148ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156205ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156259ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156310ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156349ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156409ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156460ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156509ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156568ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156623ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156683ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156748ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156817ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156856ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156898ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156954ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  156999ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157046ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157085ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157136ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157185ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157226ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157284ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157344ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157394ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157461ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157520ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157572ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157617ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157675ms] [ERROR] ./components/Hero.tsx:240:7
+Expected '>', got 'ident'
+  238 |       {/* ── Marquee strip ── */}
+  239 |       <MarqueeStrip />
+> 240 |     </div>
+      |       ^^^
+  241 |   );
+  242 | }
+  243 |
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[  157703ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[  157973ms] [LOG] [Fast Refresh] done in 225ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[  158146ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[  158170ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477

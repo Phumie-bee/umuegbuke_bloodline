@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import { DM_Sans, Playfair_Display } from "next/font/google";
 import "./globals.css";
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
+import Navbar from "@/components/Navbar";
 
 const dmSans = DM_Sans({
   subsets: ["latin"],
@@ -20,20 +19,17 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: "Okosisi — Umu Egbuke Bloodline",
-  description: "The official family portal for the Umu Egbuke Bloodline. Connect, celebrate, and preserve our shared heritage.",
+  description: "The official family portal for the Umu Egbuke Bloodline.",
 };
 
 export default function RootLayout({
   children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+}: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`${dmSans.variable} ${playfair.variable}`}>
       <body>
         <Navbar />
         {children}
-        <Footer />
       </body>
     </html>
   );

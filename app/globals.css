@@ -1,81 +1,95 @@
 @import "tailwindcss";
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-/* ── Design tokens (raw CSS vars) ──────────────────────────── */
+/* ── Design tokens ──────────────────────────────────────── */
 :root {
-  --primary:    #1A3A2A;
-  --accent:     #D4A843;
-  --bg:         #FDFAF5;
-  --bg-light:   #F5EDD8;
-  --footer-bg:  #111E17;
-  --text:       #1A1A1A;
-  --text-muted: #7A7065;
+  --deep-rose: #7a3e48;
+  --desert-sand: #e4bb97;
+  --smoky-rose: #9d5c63;
+  --seashell: #fef5ef;
+  --lavender: #d6e3f8;
+  --cream-light: #f5edd8;
+  --footer-dark: #3a1820;
+
+  --text: #1a0f11;
+  --text-muted: #7a6065;
 }
 
-/* ── Tailwind v4 theme registration ────────────────────────── */
-/* inline = utilities reference the var() rather than inlining  */
+/* ── Tailwind v4 theme ──────────────────────────────────── */
 @theme inline {
-  --color-primary:      var(--primary);
-  --color-accent:       var(--accent);
-  --color-cream:        var(--bg);
-  --color-cream-light:  var(--bg-light);
-  --color-footer:       var(--footer-bg);
-  --color-muted:        var(--text-muted);
-  /* font-heading enables the `font-heading` utility class */
-  --font-heading:       var(--font-playfair), 'Playfair Display', serif;
+  --color-deep-rose: var(--deep-rose);
+  --color-desert-sand: var(--desert-sand);
+  --color-smoky-rose: var(--smoky-rose);
+  --color-seashell: var(--seashell);
+  --color-lavender: var(--lavender);
+  --color-cream-light: var(--cream-light);
+  --color-footer: var(--footer-dark);
+  --color-text: var(--text);
+  --color-muted: var(--text-muted);
+
+  --font-heading: var(--font-playfair), "Playfair Display", serif;
 }
 
-/* ── Base ───────────────────────────────────────────────────── */
-html { scroll-behavior: smooth; }
+/* ── Base reset ─────────────────────────────────────────── */
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
 
-body {
-  background: var(--bg);
-  font-family: var(--font-dm-sans), 'DM Sans', sans-serif;
-  font-weight: 300;
-  line-height: 1.85;
-  color: var(--text);
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: var(--seashell);
+    font-family: var(--font-dm-sans), "DM Sans", sans-serif;
+    font-weight: 300;
+    line-height: 1.8;
+    color: var(--text);
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  img {
+    max-width: 100%;
+    display: block;
+  }
 }
 
-a   { text-decoration: none; color: inherit; }
-img { max-width: 100%; display: block; }
-
-/* ── Reusable global component classes ─────────────────────── */
+/* ── Reusable component classes ─────────────────────────── */
 @layer components {
-  /* 40 × 3 px gold rule, sits directly below every section heading */
-  .gold-divider {
-    @apply w-10 h-[3px] bg-accent rounded-sm mb-10;
-  }
-
-  /* Small all-caps label above a section heading */
   .section-label {
-    @apply block text-[11px] font-medium uppercase tracking-[1.5px] text-muted mb-2;
+    @apply block text-xs font-medium uppercase tracking-[2px] text-smoky-rose mb-2;
   }
 
-  /* Shared heading type style — add text-* and text-size utilities alongside */
   .section-title {
     @apply font-heading font-bold leading-tight mb-3;
   }
 
-  /* Gold-filled CTA button */
-  .btn-primary {
-    @apply inline-block bg-accent text-primary font-semibold text-sm
-           px-7 py-3 rounded transition-colors
-           hover:bg-[#c2972e] focus-visible:outline-none focus-visible:ring-2
-           focus-visible:ring-accent;
+  .gold-divider {
+    @apply w-10 h-[3px] bg-desert-sand rounded-sm mb-10;
   }
 
-  /* Outlined button — default dark-green border, inverts on hover */
-  .btn-outline {
-    @apply inline-block border border-primary text-primary font-semibold text-sm
+  .red-divider {
+    @apply w-10 h-[3px] bg-deep-rose rounded-sm mb-10;
+  }
+
+  .btn-primary {
+    @apply inline-block bg-desert-sand text-deep-rose font-semibold text-sm
            px-7 py-3 rounded transition-colors
-           hover:bg-primary hover:text-white focus-visible:outline-none
-           focus-visible:ring-2 focus-visible:ring-primary;
+           hover:bg-desert-sand/80 focus-visible:outline-none
+           focus-visible:ring-2 focus-visible:ring-desert-sand;
+  }
+
+  .btn-outline {
+    @apply inline-block border border-deep-rose text-deep-rose font-semibold text-sm
+           px-7 py-3 rounded transition-colors
+           hover:bg-deep-rose hover:text-seashell focus-visible:outline-none
+           focus-visible:ring-2 focus-visible:ring-deep-rose;
   }
 }

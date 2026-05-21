@@ -13,3 +13,3032 @@
 [  686548ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr?id=-qDu3h2gtwzQ4XPS2JOpa' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
 [  693910ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr?id=-qDu3h2gtwzQ4XPS2JOpa' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
 [  701286ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/webpack-hmr?id=-qDu3h2gtwzQ4XPS2JOpa' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13322
+[ 1711751ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 1711768ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 5509154ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 6934096ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 6934143ms] [LOG] [Fast Refresh] done in 148ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 6945409ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 6945457ms] [LOG] [Fast Refresh] done in 149ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 7182625ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 7182716ms] [LOG] [Fast Refresh] done in 84ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 7220971ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 7221182ms] [LOG] [Fast Refresh] done in 316ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 7232541ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 7232659ms] [LOG] [Fast Refresh] done in 149ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 7261250ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 7264061ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 7264086ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 7588393ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 7588771ms] [LOG] [Fast Refresh] done in 441ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 8375171ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 8375203ms] [LOG] [Fast Refresh] done in 140ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 8451412ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 8451474ms] [LOG] [Fast Refresh] done in 67ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 8451620ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 8451654ms] [LOG] [Fast Refresh] done in 135ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 8489529ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 8489542ms] [LOG] [Fast Refresh] done in 120ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 8657148ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[ 8657210ms] [LOG] [Fast Refresh] done in 99ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[35067681ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[54038606ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[54296098ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[54296213ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[54351357ms] [LOG] [Fast Refresh] done in 55256ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[57125236ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[57211250ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[58872377ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[61039995ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[61051262ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[67907794ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[67908156ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[67908176ms] [LOG] [Fast Refresh] done in 356ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[67908284ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[67908335ms] [LOG] [Fast Refresh] done in 154ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68190704ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68276132ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68276280ms] [LOG] [Fast Refresh] done in 254ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68276403ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68276426ms] [LOG] [Fast Refresh] done in 129ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68525325ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68770486ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68773010ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/about?_rsc=wjiYdL0BYQvDTxkI:0
+[68773093ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/about?_rsc=wjiYdL0BYQvDTxkI:0
+[68773096ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/about?_rsc=wjiYdL0BYQvDTxkI:0
+[68773097ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/about?_rsc=wjiYdL0BYQvDTxkI:0
+[68773124ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/about?_rsc=wjiYdL0BYQvDTxkI:0
+[68773139ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/about?_rsc=wjiYdL0BYQvDTxkI:0
+[68773153ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/about?_rsc=wjiYdL0BYQvDTxkI:0
+[68773185ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/about:0
+[68773261ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_0bruynb._.js:15305
+[68773344ms] Error: ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./app/layout.tsx:5:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\dev\hot-reloader-turbopack.js:1164:50)
+    at Array.map (<anonymous>)
+    at Object.getCompilationErrors (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\dev\hot-reloader-turbopack.js:1156:19)
+    at DevBundlerService.getCompilationError (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\lib\dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\dev\next-dev-server.js:720:42)
+    at DevServer.findPageComponents (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\dev\next-dev-server.js:690:43)
+    at async DevServer.renderErrorToResponseImpl (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\base-server.js:1694:30)
+[68773331ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[68773337ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68773338ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68773338ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68773338ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774254ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774254ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774293ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/about:0
+[68774328ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_0bruynb._.js:15305
+[68774343ms] Error: ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (Error: ./app/layout.tsx:5:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)
+    at <unknown> (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\dev\hot-reloader-turbopack.js:1164:50)
+    at Array.map (<anonymous>)
+    at Object.getCompilationErrors (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\dev\hot-reloader-turbopack.js:1156:19)
+    at DevBundlerService.getCompilationError (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\lib\dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\dev\next-dev-server.js:720:42)
+    at DevServer.findPageComponents (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\dev\next-dev-server.js:690:43)
+    at async DevServer.renderErrorToResponseImpl (file://C:\Projects\umuegbuke_bloodline\node_modules\next\dist\server\base-server.js:1694:30)
+[68774343ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[68774345ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774346ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774346ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774346ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774572ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774572ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774614ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774614ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774659ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774659ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774747ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774747ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774787ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774788ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774858ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774858ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774906ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774907ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774946ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774946ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774995ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68774995ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775060ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775060ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775111ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775112ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775169ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775169ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775210ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775210ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775252ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775252ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775301ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775302ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775359ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775359ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775413ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775413ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775467ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775468ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775509ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775509ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775550ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775550ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775607ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775607ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775663ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775664ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775724ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775724ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775773ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775773ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775822ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775822ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775870ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775870ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775918ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775918ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775962ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68775962ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776008ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776009ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776064ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776064ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776106ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776106ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776158ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776158ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776225ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776225ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776275ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776275ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776326ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776326ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776389ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776389ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776444ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776444ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776508ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776508ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776569ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776569ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776632ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776632ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776697ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776698ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776747ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776747ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776797ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776798ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776863ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776863ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776921ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776921ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776985ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68776986ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777040ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777041ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777104ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777104ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777165ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777165ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777232ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777232ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777283ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777283ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777347ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777347ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777410ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777411ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777474ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777474ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777527ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777527ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777591ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777591ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777651ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777651ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777701ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777701ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777756ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777756ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777809ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777809ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777881ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777881ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777937ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777937ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777991ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68777991ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778055ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778055ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778104ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778104ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778168ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778168ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778218ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778218ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778272ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778272ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778321ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778321ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778392ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778392ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778469ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778469ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778517ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778517ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778566ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778566ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778629ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778629ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778678ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778679ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778745ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778745ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778816ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778816ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778877ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778877ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778916ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778917ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778978ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68778978ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779089ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[68779154ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779154ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779208ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779208ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779271ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779271ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779332ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779333ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779381ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779382ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779436ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779436ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779485ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779485ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779549ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779549ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779596ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779596ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779646ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779646ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779710ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779710ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779758ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779758ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779829ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779830ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779890ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779890ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779952ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68779952ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780016ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780016ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780073ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780073ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780126ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780126ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780182ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780182ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780223ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780224ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780265ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780265ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780306ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780306ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780348ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780348ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780404ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780404ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780445ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780445ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780487ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780487ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780529ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780529ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780578ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780579ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780619ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780619ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780678ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780678ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780723ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780723ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780762ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780762ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780806ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780806ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780848ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780848ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780897ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780897ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780939ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780939ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780980ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68780980ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781029ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781029ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781070ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781070ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781126ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781126ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781167ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781168ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781218ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781218ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781282ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781282ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781350ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781351ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781420ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781420ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781486ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781486ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781536ms] [ERROR] ./app/layout.tsx:5:1
+Module not found: Can't resolve '../components/Footer'
+  3 | import "./globals.css";
+  4 | import Navbar from "../components/Navbar";
+> 5 | import Footer from "../components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | const dmSans = DM_Sans({
+  8 |   subsets: ["latin"],
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781536ms] [ERROR] ./app/layout.tsx:4:1
+Module not found: Can't resolve '../components/Navbar'
+  2 | import { DM_Sans, Playfair_Display } from "next/font/google";
+  3 | import "./globals.css";
+> 4 | import Navbar from "../components/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Footer from "../components/Footer";
+  6 |
+  7 | const dmSans = DM_Sans({
+
+https://nextjs.org/docs/messages/module-not-found @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1945
+[68781562ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[68781714ms] [LOG] [Fast Refresh] done in 48ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_0u_w_5s._.js:1226
+[68781738ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/about:0
+[68781899ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68781970ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68782582ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68782667ms] [LOG] [Fast Refresh] done in 89ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68782682ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/about?_rsc=gJvLbHS0Udr_qZza:0
+[68782823ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/about?_rsc=gJvLbHS0Udr_qZza:0
+[68782869ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/about:0
+[68782926ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[68782940ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477
+[72211870ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2477

@@ -7,7 +7,9 @@
       "mcp__plugin_playwright_playwright__browser_navigate",
       "mcp__plugin_playwright_playwright__browser_take_screenshot",
       "Bash(node -e \"const tw = require\\('/c/projects/umuegbuke_bloodline/node_modules/tailwindcss'\\); console.log\\(tw.version || 'no version field'\\)\")",
-      "Bash(node -e \"const p = require\\('/c/projects/umuegbuke_bloodline/node_modules/tailwindcss/package.json'\\); console.log\\(p.version\\)\")"
+      "Bash(node -e \"const p = require\\('/c/projects/umuegbuke_bloodline/node_modules/tailwindcss/package.json'\\); console.log\\(p.version\\)\")",
+      "Bash(npm install *)",
+      "Bash(node -e \"console.log\\(require\\('/c/projects/umuegbuke_bloodline/node_modules/framer-motion/package.json'\\).version\\)\")"
     ]
   }
 }
