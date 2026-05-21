@@ -67,7 +67,7 @@ function SectionLabel({ children }: { children: string }): JSX.Element {
   return (
     <div className="flex items-center gap-2 mb-2">
       <span className="w-6 h-px shrink-0 bg-smoky-rose" />
-      <span className="text-xs font-medium uppercase tracking-[2px] text-smoky-rose">
+      <span className="text-xs font-medium uppercase tracking-[2px] text-smoky-rose/80">
         {children}
       </span>
     </div>
