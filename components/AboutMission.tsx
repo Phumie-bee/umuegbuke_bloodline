@@ -36,23 +36,53 @@ interface MissionPoint {
 }
 
 const missionPoints: MissionPoint[] = [
-  { number: "01", text: "Foster unity and mutual respect among all family members regardless of location." },
-  { number: "02", text: "Preserve our cultural identity, traditions, and the stories of our ancestors." },
-  { number: "03", text: "Support one another through welfare initiatives and community action." },
-  { number: "04", text: "Celebrate milestones and create lasting memories across generations." },
-  { number: "05", text: "Build a prosperous legacy that future descendants will be proud of." },
+  {
+    number: "01",
+    text: "Foster unity and mutual respect among all family members regardless of location.",
+  },
+  {
+    number: "02",
+    text: "Preserve our cultural identity, traditions, and the stories of our ancestors.",
+  },
+  {
+    number: "03",
+    text: "Support one another through welfare initiatives and community action.",
+  },
+  {
+    number: "04",
+    text: "Celebrate milestones and create lasting memories across generations.",
+  },
+  {
+    number: "05",
+    text: "Build a prosperous legacy that future descendants will be proud of.",
+  },
 ];
 
 const coreValues: string[] = [
-  "Unity", "Respect", "Integrity", "Love", "Support", "Heritage",
+  "Unity",
+  "Respect",
+  "Integrity",
+  "Love",
+  "Support",
+  "Heritage",
 ];
 
 /* ── Section label ──────────────────────────────────────── */
-function SectionLabel({ children, light = false }: { children: string; light?: boolean }): JSX.Element {
+function SectionLabel({
+  children,
+  light = false,
+}: {
+  children: string;
+  light?: boolean;
+}): JSX.Element {
   return (
     <div className="flex items-center gap-2 mb-2">
-      <span className={`w-6 h-px shrink-0 ${light ? "bg-desert-sand" : "bg-smoky-rose"}`} />
-      <span className={`text-xs font-medium uppercase tracking-[2px] ${light ? "text-desert-sand" : "text-smoky-rose"}`}>
+      <span
+        className={`w-6 h-px shrink-0 ${light ? "bg-desert-sand" : "bg-smoky-rose"}`}
+      />
+      <span
+        className={`text-xs font-medium uppercase tracking-[2px] ${light ? "text-desert-sand" : "text-smoky-rose"}`}
+      >
         {children}
       </span>
     </div>
@@ -66,7 +96,6 @@ export default function AboutMission(): JSX.Element {
       {/* ── About + Mission split ── */}
       <section aria-label="About and Mission" className="bg-deep-rose">
         <div className="grid grid-cols-1 md:grid-cols-2">
-
           {/* Left: About */}
           <motion.div
             variants={fadeLeft}
@@ -134,7 +163,10 @@ export default function AboutMission(): JSX.Element {
       </section>
 
       {/* ── Core Values ── */}
-      <section aria-label="Core Values" className="bg-deep-rose px-8 md:px-16 pb-20">
+      <section
+        aria-label="Core Values"
+        className="bg-deep-rose px-8 md:px-16 pb-20 pt-12"
+      >
         <motion.div
           variants={fadeUp}
           initial="hidden"
@@ -160,7 +192,7 @@ export default function AboutMission(): JSX.Element {
               key={value}
               variants={staggerItem}
               whileHover={{ scale: 1.03, transition: { duration: 0.18 } }}
-              className="border border-seashell/20 rounded-xl px-6 py-5 text-seashell font-medium text-sm bg-desert-sand/10 cursor-default"
+              className="border border-seashell/20 rounded-xl px-6 py-5 text-seashell font-medium text-sm bg-desert-sand/10 hover:bg-desert-sand/20 cursor-default"
             >
               {value}
             </motion.div>
